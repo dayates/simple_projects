@@ -1,0 +1,1 @@
+This notebook is for scrapping temperature and other data from WB. 

@@ -1,0 +1,1 @@
+This notebook is for analyzing my Strava activity data to understand my skiing, running, and hiking history.
